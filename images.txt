@@ -4,7 +4,8 @@
 #onething1/wxedge
 #tiptime/ttnode
 #arm64v8-wxedge:2.4.3
-archlinux
+#archlinux
+manjarolinux/base
 #支持私库
 #支持指定架构
 #--platform=linux/arm64
