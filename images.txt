@@ -5,7 +5,8 @@
 #tiptime/ttnode
 #arm64v8-wxedge:2.4.3
 #archlinux
-manjarolinux/base
+#manjarolinux/base
+ethanpolygen/comfyui-3d-pack:v3-comfy-path
 #支持私库
 #支持指定架构
 #--platform=linux/arm64
