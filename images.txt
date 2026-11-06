@@ -6,7 +6,7 @@
 #arm64v8-wxedge:2.4.3
 #archlinux
 #manjarolinux/base
-ethanpolygen/comfyui-3d-pack:v3-comfy-path
+pytorch/pytorch:2.5.1-cuda12.4-cudnn9-runtime
 #支持私库
 #支持指定架构
 #--platform=linux/arm64
