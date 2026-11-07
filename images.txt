@@ -8,6 +8,7 @@
 #manjarolinux/base
 #pytorch/pytorch:2.7.0-cuda12.8-cudnn9-runtime
 pytorch/pytorch:2.6.0-cuda12.4-cudnn9-runtime
+
 #支持私库
 #支持指定架构
 #--platform=linux/arm64
